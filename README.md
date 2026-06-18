@@ -7,7 +7,7 @@ NEW FEATURES IN THIS VERSION:
      - User gets email when report is submitted
      - User gets email when admin actions/deletes their report
      - Admin gets email when any new report comes in
-    - Admin email: nishantjaat9712@gmail.com
+    - Admin email: himanshu.21230@gmail.com
 
   2. ADMIN DELETE IMAGE
      - Admin can permanently delete any deepfake image
